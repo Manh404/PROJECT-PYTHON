@@ -4,6 +4,6 @@ Goal: to conduct a comprehensive statistical analysis of the dataset to gaininsi
 Description: Our dataset comprises nearly 100,000 records of flight information, including details about passengers, their demographics, travel patterns, and arrival dates.
   Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
   Technology: Python, Pandas, Numpy, Seaborn, Matplotliby.
-  ## The project also use Hypothesis testing to  Compare travel patterns between genders or age groups: Test for differences
+ >>- The project also use Hypothesis testing to  Compare travel patterns between genders or age groups: Test for differences
 in the proportion of cancelled flights between countries using chi-squares
 test.
