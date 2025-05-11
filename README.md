@@ -78,8 +78,10 @@ understanding data.
 ## Part 3 : Hypothesis Testing
 
 * Compare travel patterns between genders or age groups:
+
 ** Test for differences in the proportion of cancelled flights between countries using chi-squares
 test
+
 ** Using t-test to determine whether difference in mean ages between Japan
 and China with alpha = 0.5,0.1,0.25
 
