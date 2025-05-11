@@ -8,11 +8,13 @@ Description: Our dataset comprises nearly 100,000 records of flight information,
 ## Part 1: DESCRIPTIVE STATISTICS:
 <img width="556" alt="Image" src="https://github.com/user-attachments/assets/bc703b01-8d90-4fa4-82e2-27c7761259d1" />
 
-● Summarize passenger demographics: Calculate age distribution, gender
+* Summarize passenger demographics: Calculate age distribution, gender
 proportions, and frequency of different nationalities.
-● Understand travel patterns: Describe most frequent airports, continents of
+
+* Understand travel patterns: Describe most frequent airports, continents of
 departure and arrival, and common routes.
-● Identify peak travel times: Explore date of arrival patterns to reveal busiest
+
+ * Identify peak travel times: Explore date of arrival patterns to reveal busiest
 periods.
 
 ### Move to gender proportions
